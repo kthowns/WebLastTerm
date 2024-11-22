@@ -6,6 +6,7 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 <% out.print("Change is Coming!") %>
+<% out.print("Develop branch is created!") %>
 </head>
 <body>
 
