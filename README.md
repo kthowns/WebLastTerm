@@ -2,4 +2,4 @@
 
 김태현 : PM, Server, DB
 
-김가람 : UI/UX, Front
+김가람 : UI/UX, Design
